@@ -6,7 +6,7 @@ Este projeto vai ser desenvolvido no Intensivão Java Spring - Professor Nelio A
 
 ## 📄 Documentação
 
-Irei complementar meus estudos usando o projeto no Github, simulando a utilização do Scrum, criando as tasks e criando as isues para seguir o gitFlow, criando uma branch e subindo a branch para master, o projeto pode ser acessado neste link: <a href="https://github.com/users/pedrorafante/projects/3"> Projeto Kanban Github</a>
+Irei complementar meus estudos usando o projeto no Github, simulando a utilização do Scrum, criando as tasks e criando as issuses para seguir o gitFlow, criando uma branch e subindo a branch para master, o projeto pode ser acessado neste link: <a href="https://github.com/users/pedrorafante/projects/3"> Projeto Kanban Github</a>
 
 ---
 
