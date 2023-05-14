@@ -10,6 +10,6 @@ public record GameMinDTO (Long id, String title, Integer year, String imgUrl, St
     }
 
     public GameMinDTO(GameMinProjection gameMinProjection){
-        this(gameMinProjection.getId(), gameMinProjection.getTitle(), gameMinProjection.getYear(), gameMinProjection.getImgUrl(), gameMinProjection.getShortDescription());
+        this(gameMinProjection.getId(), gameMinProjection.getTitle(), gameMinProjection.getGameYear(), gameMinProjection.getImgUrl(), gameMinProjection.getShortDescription());
     }
 }
